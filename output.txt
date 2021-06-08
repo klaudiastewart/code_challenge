@@ -1,0 +1,7 @@
+1. There are 49157 unique full names
+2. There are 475 unique last names
+3. There are 3007 unique first names
+4. The ten most common last names are {"Barton"=>143, "Lang"=>136, "Ortiz"=>135, "Hilll"=>134, "Hills"=>130, "Batz"=>129, "Terry"=>129, "123Becker"=>128, "Johns"=>128, "Romaguera"=>128}
+5. The ten most common first names are {" Tara"=>34, " Andreanne"=>32, " Stephania"=>31, " Summer"=>31, " Ulices"=>31, " Keon"=>31, " Milo"=>30, " Baron"=>30, " Manley"=>30, " Kayley"=>30}
+6. The specially unique names are: ["Graham, Mckenna", "Marvin, Garfield", "McLaughlin, Mariah", "Lang, Agustina", "Bradtke, Nikko", "Adams, Luis", "Lehner, Matilde", "Ortiz, Anita", "Koch, Berry", "Cartwright, Nicolas", "Fisher, Elmo", "Kunze, Gertrude", "Stanton, Davin", "O'Conner, Constantin", "Runolfsdottir, Roy", "Rogahn, Colby", "Tromp, Ryley", "Hoppe, Stanley", "Shanahan, Bethel", "Hills, Samanta", "McGlynn, Thad", "Lynch, Norma", "Bahringer, Lennie", "Tillman, Madison", "Stoltenberg, Donna"]
+7. The modified names are: ["Graham, Garfield", "Marvin, Mariah", "McLaughlin, Agustina", "Lang, Nikko", "Bradtke, Luis", "Adams, Matilde", "Lehner, Anita", "Ortiz, Berry", "Koch, Nicolas", "Cartwright, Elmo", "Fisher, Gertrude", "Kunze, Davin", "Stanton, Constantin", "O'Conner, Roy", "Runolfsdottir, Colby", "Rogahn, Ryley", "Tromp, Stanley", "Hoppe, Bethel", "Shanahan, Samanta", "Hills, Thad", "McGlynn, Norma", "Lynch, Lennie", "Bahringer, Madison", "Tillman, Donna", "Stoltenberg, Mckenna"]
